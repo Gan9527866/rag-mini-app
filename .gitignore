@@ -1,0 +1,9 @@
+# 密钥、日志、临时文件
+*.pdf
+*.docx
+*.doc
+*.txt
+.env
+secrets.toml
+debug.log
+__pycache__/
